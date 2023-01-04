@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/FortniteAchievements/static/css/main.94593749.css",
-    "main.js": "/FortniteAchievements/static/js/main.94be554f.js",
+    "main.js": "/FortniteAchievements/static/js/main.cda354e3.js",
     "index.html": "/FortniteAchievements/index.html",
     "main.94593749.css.map": "/FortniteAchievements/static/css/main.94593749.css.map",
-    "main.94be554f.js.map": "/FortniteAchievements/static/js/main.94be554f.js.map"
+    "main.cda354e3.js.map": "/FortniteAchievements/static/js/main.cda354e3.js.map"
   },
   "entrypoints": [
     "static/css/main.94593749.css",
-    "static/js/main.94be554f.js"
+    "static/js/main.cda354e3.js"
   ]
 }
